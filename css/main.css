@@ -1,0 +1,109 @@
+*{
+	margin: 0px;
+}
+
+sup{
+	font-size: 16px;
+	font-weight: normal;
+}
+.searchbox input{
+	text-align: left;
+	position: absolute;
+	height: 50px;
+	width: 220px;
+	background-color: #f0eeef;
+	color: #c8c8ca;
+	border: 5px solid transparent;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 1100px;
+}
+
+nav{
+	background-color: #fe7e00;
+	padding: 45px;
+	border-bottom: 6px solid #e56e13;
+}
+
+nav h1{
+	padding-left: 100px;
+	font-size: 36px;
+}
+
+nav ul{
+	float: right;
+	text-align: center;
+	padding-top: 0px;
+}
+
+nav li{
+	display: inline-block;
+	padding: 30px;
+	padding-top: 0px;
+	padding-right: 50px;
+	font-size: 20px;
+	font-weight: 100;
+	line-height: 30px;
+
+}
+nav a{
+	text-decoration: none;
+	color: #fff;
+}
+
+nav span{
+	font-weight: lighter;
+}
+
+
+.magnify{
+	margin-left: 900px;
+	color: #c8c8ca;
+}
+
+.slices{
+	padding-top: -200px;
+	padding-left: 30px;
+	height: 400px;
+	width: 40px;
+}
+
+.quote{
+	display: block;
+	text-align: right;
+	float: right;
+	width: 600px;
+	padding-right: 300px;
+	margin-top: -300px;
+	font-size: 36px;
+	font-weight: lighter;
+	color: #fe7e00;
+}
+.quote .aqua{
+	color: #7ACBC8;
+	font-weight: 700;
+}
+
+.quote .left{
+	background-color: #fe7e00;
+	height: 50px;
+	width: 210px;
+	color: #fff;
+}
+
+.quote .right{
+	background-color: #7ACBC8;
+	height: 50px;
+	width: 210px;
+	color: #fff;
+}
+
+.footer{
+	height: 130px;
+	padding: 10px;
+	background-color: #7ACBC8;
+	position: fixed;
+	width: 1400px;
+}
+	
